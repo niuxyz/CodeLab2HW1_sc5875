@@ -48,10 +48,10 @@ public class ShakeCup : MonoBehaviour {
 					m_text.text = "Green:" + destiny[1];
 					break;
 				case 2:
-					m_text.text = "red" + destiny[2];
+					m_text.text = "Red" + destiny[2];
 					break;
 				case 3:
-					m_text.text = "yellow" + destiny[3];
+					m_text.text = "Yellow" + destiny[3];
 					break;
 				default:
 					break;
